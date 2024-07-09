@@ -1,0 +1,12 @@
+this is to test proficiency in git and to store 
+
+https://github.com/Envoy-VC/ERC-20-Upgradable
+
+s/deploy.js --network sepolia
+Downloading compiler 0.8.7
+Compiled 11 Solidity files successfully
+Deploying ERC20UpgradableV1...
+ERC20UpgradableV1 deployed to: 0xA4dD31FA5baa2e8D747A1b67dF13ACc41f0F2c22
+
+
+owner: 0xeCB50f0098B2bE7dbff458E585c00CED9102152D
