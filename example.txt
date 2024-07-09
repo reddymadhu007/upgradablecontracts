@@ -1,5 +1,3 @@
-this is to test proficiency in git and to store 
-
 https://github.com/Envoy-VC/ERC-20-Upgradable
 
 s/deploy.js --network sepolia
